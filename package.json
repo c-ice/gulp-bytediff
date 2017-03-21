@@ -1,13 +1,11 @@
 {
-  "name": "gulp-bytediff",
+  "name": "softec-gulp-bytediff",
   "version": "0.3.0",
   "description": "Compare file sizes before and after your gulp build process.",
   "license": "MIT",
   "homepage": "https://github.com/ben-eb/gulp-bytediff",
   "author": {
-    "name": "Ben Briggs",
-    "email": "therealbenbriggs@hotmail.com",
-    "url": "http://beneb.info"
+    "name": "ja"
   },
   "scripts": {
     "test": "mocha"
