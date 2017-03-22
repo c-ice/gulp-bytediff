@@ -1,5 +1,5 @@
 {
-  "name": "softec-gulp-bytediff",
+  "name": "gulp-bytediff",
   "version": "0.3.0",
   "description": "Compare file sizes before and after your gulp build process.",
   "license": "MIT",
